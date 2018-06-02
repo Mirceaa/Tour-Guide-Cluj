@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tour Guide Cluj</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_old_buildings">Old Buildings</string>
+    <string name="category_opera">Opera</string>
+    <string name="category_parks">Parks</string>
+
+    <string name="museums_history">History Museum</string>
+    <string name="museums_history_address">Street Constantin Daicoviciu 2, Cluj-Napoca</string>
+    <string name="museums_pharmacy">Pharmacy Museum</string>
+    <string name="museums_pharmacy_address">Piața Unirii 28, Cluj-Napoca</string>
+    <string name="museums_geology">Geology Museum</string>
+    <string name="museums_geology_address"> GPS Coordinates: 46,76800 N, 23,59121 E</string>
+
+    <string name="old_building_cathedral">Catholic Cathedral</string>
+    <string name="old_building_cathedral_address">Address Catholic Cathedral</string>
+    <string name="old_building_corvin">Corvin House</string>
+    <string name="old_building_corvin_address">Address Corvin House</string>
+    <string name="old_building_bamfy">Bamphy building</string>
+    <string name="old_building_bamfy_address">Address Bamphy building</string>
+
+    <string name="opera_othelo">Othelo</string>
+    <string name="opera_don">Don Giovani</string>
+    <string name="opera_traviata">Traviata</string>
+    <string name="parks_central">Central Park</string>
+    <string name="parks_botanic">Botanical Garden</string>
+    <string name="parks_gheorgheni">Gheorgheni park</string>
+
+
+</resources>
